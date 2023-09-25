@@ -3,7 +3,7 @@ import './Date.css';
 function Date() {
   return(
     <section className='date'>
-      <h2 className='date__title'>WHEN?</h2>
+      <h2 className='page__title date__title'>WHEN?</h2>
       <p className='date__week-day'>СУББОТА</p>
       <div className='date__container'>
         <p className='date__month'>НОЯБРЬ</p>
