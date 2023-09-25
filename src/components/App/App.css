@@ -1,5 +1,6 @@
 @import url(../../vendor/normalize.css);
 @import url(../../vendor/shlop.css);
+@import url(../../vendor/Montserrat.css);
 
 .App {
   font-family: Shlop, Arial, sans-serif;
