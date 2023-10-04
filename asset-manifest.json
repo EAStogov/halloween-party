@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/halloween-party/static/css/main.406e10ef.css",
-    "main.js": "/halloween-party/static/js/main.663398e9.js",
+    "main.css": "/halloween-party/static/css/main.744fcec6.css",
+    "main.js": "/halloween-party/static/js/main.5caabaec.js",
     "static/media/image18.png": "/halloween-party/static/media/image18.14235dd81e7f23e9f5dc.png",
     "static/media/image12.png": "/halloween-party/static/media/image12.6681668587e4931a1882.png",
     "static/media/image15.png": "/halloween-party/static/media/image15.f8728992833309348385.png",
@@ -38,14 +38,13 @@
     "static/media/Montserrat-Bold.woff2": "/halloween-party/static/media/Montserrat-Bold.b8c6bf231f0ce4cad3c7.woff2",
     "static/media/Montserrat-Regular.woff2": "/halloween-party/static/media/Montserrat-Regular.812dd4640aaa4e4db7b8.woff2",
     "static/media/shlop rg.woff2": "/halloween-party/static/media/shlop rg.290e96c7afd3fbec6fe3.woff2",
-    "static/media/age.svg": "/halloween-party/static/media/age.0221e3ec0adfbd2f5398.svg",
-    "static/media/point.svg": "/halloween-party/static/media/point.cd65d937fe67a90c33df5941f3b955f4.svg",
+    "static/media/age.png": "/halloween-party/static/media/age.26376a84bc09ab5ad961.png",
     "index.html": "/halloween-party/index.html",
-    "main.406e10ef.css.map": "/halloween-party/static/css/main.406e10ef.css.map",
-    "main.663398e9.js.map": "/halloween-party/static/js/main.663398e9.js.map"
+    "main.744fcec6.css.map": "/halloween-party/static/css/main.744fcec6.css.map",
+    "main.5caabaec.js.map": "/halloween-party/static/js/main.5caabaec.js.map"
   },
   "entrypoints": [
-    "static/css/main.406e10ef.css",
-    "static/js/main.663398e9.js"
+    "static/css/main.744fcec6.css",
+    "static/js/main.5caabaec.js"
   ]
 }
