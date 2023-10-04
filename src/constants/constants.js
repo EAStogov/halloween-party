@@ -1,130 +1,170 @@
-export default imageList = [
+import image1 from "../images/image1.png";
+import image2 from "../images/image2.png";
+import image3 from "../images/image3.png";
+import image4 from "../images/image4.png";
+import image5 from "../images/image5.png";
+import image6 from "../images/image6.png";
+import image7 from "../images/image7.png";
+import image8 from "../images/image8.png";
+import image9 from "../images/image9.png";
+import image10 from "../images/image10.png";
+import image11 from "../images/image11.png";
+import image12 from "../images/image12.png";
+import image13 from "../images/image13.png";
+import image14 from "../images/image14.png";
+import image15 from "../images/image15.png";
+import image16 from "../images/image16.png";
+import image17 from "../images/image17.png";
+import image18 from "../images/image18.png";
+import image19 from "../images/image19.png";
+import image20 from "../images/image20.png";
+import image21 from "../images/image21.png";
+import image22 from "../images/image22.png";
+import image23 from "../images/image23.png";
+import image24 from "../images/image24.png";
+import image25 from "../images/image25.png";
+import image26 from "../images/image26.png";
+import image27 from "../images/image27.png";
+import image28 from "../images/image28.png";
+import image29 from "../images/image29.png";
+import image30 from "../images/image30.png";
+import image31 from "../images/image31.png";
+import image32 from "../images/image32.png";
+import image33 from "../images/image33.png";
+
+const imageList = [
   {
-    url: '../images/image1',
-    alt: '#'
+    url: image1,
+    alt: '1'
   },
   {
-    url: '../images/image2',
-    alt: '#'
+    url: image2,
+    alt: '2'
   },
   {
-    url: '../images/image3',
-    alt: '#'
+    url: image3,
+    alt: '3'
   },
   {
-    url: '../images/image4',
-    alt: '#'
+    url: image4,
+    alt: '4'
   },
   {
-    url: '../images/image5',
-    alt: '#'
+    url: image5,
+    alt: '5'
   },
   {
-    url: '../images/image6',
-    alt: '#'
+    url: image6,
+    alt: '6'
   },
   {
-    url: '../images/image7',
-    alt: '#'
+    url: image7,
+    alt: '7'
   },
   {
-    url: '../images/image8',
-    alt: '#'
+    url: image8,
+    alt: '8'
   },
   {
-    url: '../images/image9',
-    alt: '#'
+    url: image9,
+    alt: '9'
   },
   {
-    url: '../images/image10',
-    alt: '#'
+    url: image10,
+    alt: '10'
   },
   {
-    url: '../images/image11',
-    alt: '#'
+    url: image11,
+    alt: '11'
   },
   {
-    url: '../images/image12',
-    alt: '#'
+    url: image12,
+    alt: '12'
   },
   {
-    url: '../images/image13',
-    alt: '#'
+    url: image13,
+    alt: '13'
   },
   {
-    url: '../images/image14',
-    alt: '#'
+    url: image14,
+    alt: '14'
   },
   {
-    url: '../images/image15',
-    alt: '#'
+    url: image15,
+    alt: '15'
   },
   {
-    url: '../images/image16',
-    alt: '#'
+    url: image16,
+    alt: '16'
   },
   {
-    url: '../images/image17',
-    alt: '#'
+    url: image17,
+    alt: '17'
   },
   {
-    url: '../images/image18',
-    alt: '#'
+    url: image18,
+    alt: '18'
   },
   {
-    url: '../images/image19',
-    alt: '#'
+    url: image19,
+    alt: '19'
   },
   {
-    url: '../images/image21',
-    alt: '#'
+    url: image20,
+    alt: '20'
   },
   {
-    url: '../images/image22',
-    alt: '#'
+    url: image21,
+    alt: '21'
   },
   {
-    url: '../images/image23',
-    alt: '#'
+    url: image22,
+    alt: '22'
   },
   {
-    url: '../images/image24',
-    alt: '#'
+    url: image23,
+    alt: '23'
   },
   {
-    url: '../images/image25',
-    alt: '#'
+    url: image24,
+    alt: '24'
   },
   {
-    url: '../images/image26',
-    alt: '#'
+    url: image25,
+    alt: '25'
   },
   {
-    url: '../images/image27',
-    alt: '#'
+    url: image26,
+    alt: '26'
   },
   {
-    url: '../images/image28',
-    alt: '#'
+    url: image27,
+    alt: '27'
   },
   {
-    url: '../images/image29',
-    alt: '#'
+    url: image28,
+    alt: '28'
   },
   {
-    url: '../images/image30',
-    alt: '#'
+    url: image29,
+    alt: '29'
   },
   {
-    url: '../images/image31',
-    alt: '#'
+    url: image30,
+    alt: '30'
   },
   {
-    url: '../images/image32',
-    alt: '#'
+    url: image31,
+    alt: '31'
   },
   {
-    url: '../images/image33',
-    alt: '#'
+    url: image32,
+    alt: '32'
+  },
+  {
+    url: image33,
+    alt: '33'
   }
 ]
+
+export default imageList;

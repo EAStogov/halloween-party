@@ -1,3 +1,4 @@
+import Costumes from '../Costumes/Costumes';
 import Date from '../Date/Date';
 import Header from '../Header/Header';
 import Place from '../Place/Place';
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Date />
       <Place />
+      <Costumes />
     </div>
   );
 }
