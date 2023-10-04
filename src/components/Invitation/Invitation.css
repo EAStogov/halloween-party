@@ -1,0 +1,111 @@
+.invitation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 170px;
+  background: no-repeat url(../../images/blood-invitation.svg);
+  background-position: left center;
+  padding: 0 50px 170px;
+}
+
+.invitation__title {
+  margin-top: 0;
+}
+
+.invitation__desc {
+  font-family: Montserrat, Arial, sans-serif;
+  color: white;
+  font-size: 70px;
+  max-width: 1215px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.invitation__link {
+  border: none;
+  background-color: black;
+  color: #FB0000;
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: solid 4px red;
+}
+
+.invitation__image {
+  width: 300px;
+  height: 300px;
+  background: url(../../images/age.svg) no-repeat;
+  background-size: contain;
+}
+
+/* 1300px */
+
+@media screen and (max-width: 1300px) {
+
+  .invitation {
+    padding: 0 40px 100px;
+    background-size: 50px;
+  }
+
+  .invitation__desc {
+    font-size: 45px;
+  }
+
+  .invitation__image {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+/* 900px */
+
+@media screen and (max-width: 900px) {
+
+  .invitation {
+    padding: 0 40px 100px;
+    background-size: 35px;
+  }
+
+  .invitation__desc {
+    font-size: 30px;
+    margin-bottom: 60px;
+  }
+
+  .invitation__link {
+    border-bottom: solid 2px red;
+  }
+
+  .invitation__image {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+/* 630px */
+
+@media screen and (max-width: 630px) {
+
+  .invitation__desc {
+    font-size: 22px;
+  }
+}
+
+/* 500px */
+
+@media screen and (max-width: 500px) {
+
+  .invitation {
+    padding: 0 20px 50px;
+    background-size: 15px;
+  }
+
+  .invitation__desc {
+    font-size: 15px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+  }
+
+  .invitation__image {
+    width: 50px;
+    height: 50px;
+  }
+}
