@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/halloween-party/static/css/main.e50f7b0d.css",
+    "main.css": "/halloween-party/static/css/main.406e10ef.css",
     "main.js": "/halloween-party/static/js/main.663398e9.js",
     "static/media/image18.png": "/halloween-party/static/media/image18.14235dd81e7f23e9f5dc.png",
     "static/media/image12.png": "/halloween-party/static/media/image12.6681668587e4931a1882.png",
@@ -41,11 +41,11 @@
     "static/media/age.svg": "/halloween-party/static/media/age.0221e3ec0adfbd2f5398.svg",
     "static/media/point.svg": "/halloween-party/static/media/point.cd65d937fe67a90c33df5941f3b955f4.svg",
     "index.html": "/halloween-party/index.html",
-    "main.e50f7b0d.css.map": "/halloween-party/static/css/main.e50f7b0d.css.map",
+    "main.406e10ef.css.map": "/halloween-party/static/css/main.406e10ef.css.map",
     "main.663398e9.js.map": "/halloween-party/static/js/main.663398e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e50f7b0d.css",
+    "static/css/main.406e10ef.css",
     "static/js/main.663398e9.js"
   ]
 }
