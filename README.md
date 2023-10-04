@@ -1,3 +1,3 @@
 # Halloween party 2023
 
-ссылка на страницу
+https://eastogov.github.io/halloween-party/
